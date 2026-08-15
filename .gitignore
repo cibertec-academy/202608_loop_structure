@@ -1,0 +1,11 @@
+# Salida de compilacion
+out/
+*.class
+
+# Archivos locales de IntelliJ IDEA (no se comparten)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dictionaries/
